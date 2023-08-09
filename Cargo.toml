@@ -1,0 +1,11 @@
+[package]
+name = "cancellable-promise"
+version = "0.1.0"
+edition = "2021"
+description = "Cancellable JS promise in Rust"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+worker = "0.0.18"
